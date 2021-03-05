@@ -14,6 +14,8 @@ Best viewed on a larger screen device like a tablet
   * AWS Lambda 🚧
   * Mongodb Atlas? 🚧 
 
+* CI w/ Github Actions 🚧
+
 * Future work 🔜
   * Desktop
   * Web
