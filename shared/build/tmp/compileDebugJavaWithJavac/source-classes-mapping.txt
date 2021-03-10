@@ -1,0 +1,2 @@
+com/mrea/dailyquote/shared/BuildConfig.java
+ com.mrea.dailyquote.shared.BuildConfig
